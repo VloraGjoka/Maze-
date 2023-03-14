@@ -1,0 +1,34 @@
+.mainFooter{
+    background: #1C1B29;
+    color: #7b67ca;
+    font-size: 13px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    border: 0;
+    margin-top: 5px;
+
+}
+.mainFooter p{
+    margin: 0px;
+}
+.mainFooter span{
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+}
+.mainFooter code{
+    color: #F0C408;
+    font-weight: 800;
+}
+
+
+.h-100vh{
+    height: 100vh !important;
+}
+.App{
+    position: relative !important;
+}
